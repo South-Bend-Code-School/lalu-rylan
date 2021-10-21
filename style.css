@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color:violet;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1024px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg');
+}
+#title {
+  background-color: blue;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.WhiteBackgrounds {
+  background-color: White;
+}
